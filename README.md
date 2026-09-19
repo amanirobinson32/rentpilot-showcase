@@ -8,6 +8,22 @@ RentPilot is a local-first business application designed to organize the core pr
 
 > This repository is a **public product showcase only**. The commercial application source code is kept private.
 
+## Product Preview
+
+![RentPilot dashboard](assets/dashboard.png)
+
+## Screenshots
+
+| Properties | Leases |
+| --- | --- |
+| ![Properties](assets/properties.png) | ![Leases](assets/leases.png) |
+
+| Rent Ledger | Maintenance |
+| --- | --- |
+| ![Rent ledger](assets/rent-ledger.png) | ![Maintenance](assets/maintenance.png) |
+
+![Reports](assets/reports.png)
+
 ## The Problem
 
 Small landlords and property managers often track leases, rent payments, maintenance, expenses, and tenant history across spreadsheets, notes, messages, and bank records.
