@@ -8,6 +8,16 @@ RentPilot is a local-first business application designed to organize the core pr
 
 > This repository is a **public product showcase only**. The commercial application source code is kept private.
 
+## Purchase — Complete Web + Mobile Source Code
+
+**RentPilot — $59.99 USD**
+
+[Buy RentPilot on Lemon Squeezy](https://robinsonsoftwareworks.lemonsqueezy.com/checkout/buy/39ba468d-417e-4d44-92a0-d4a7ac2af4c3)
+
+Purchase provides the downloadable commercial source-code package for the React web application and separate React Native mobile companion, subject to the included license. **Technical setup and customization are required.** This is not a hosted subscription or turnkey cloud service. The applications are local-first; automatic web-to-mobile data synchronization is not included.
+
+The paid source code is **not included in this public showcase repository**.
+
 ## Product Preview
 
 ![RentPilot dashboard](assets/dashboard.png)
@@ -72,7 +82,7 @@ The current version is intentionally local-first. Future commercial additions co
 
 ## Commercial Use
 
-The complete RentPilot implementation is maintained privately while the product is prepared for commercial licensing and customization.
+The complete RentPilot implementation is maintained privately and is available for purchase under a commercial source-code license.
 
 This repository demonstrates the product interface, workflow design, business logic, and development capabilities without distributing the commercial source code.
 
